@@ -8,7 +8,9 @@
     \/_____/   \/_____/   \/_____/     \/_/   \/_/ /_/   \/_____/   \/_/     \/_____/
 
   MOO2 Zoetrope Unified code for motor and strobe
-  July 30th 2018 Labour Robb Godshaw Robb@robb.cc 818.408.9343
+  July 30th 2018 Labour Robb Godshaw Robb@robb.cc
+  
+  Distributed under MIT License
 
   BOM--
   ClearPath MCVC CPM-MCVC-3421S-RLN to be programmed with Zoetrope-MicroMoo2-r2-fromTeknic.mtr
